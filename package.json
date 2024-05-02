@@ -2,7 +2,7 @@
   "name": "codepilot",
   "displayName": "CodePilot",
   "description": "Instant access to documentations, frameworks and libraries right within VS Code",
-  "version": "3.5.2",
+  "version": "1.0.0",
   "publisher": "AyushmaanSingh",
   "icon": "icon.jpeg",
   "repository": {
