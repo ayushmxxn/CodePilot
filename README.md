@@ -64,7 +64,7 @@
 
 If you find the extension useful and would like to support its development, consider buying me a coffee! ☕️
 
-<a href="https://www.buymeacoffee.com/ayushmaanx" target="_blank">
+<a href="https://www.buymeacoffee.com/ayushmxxn" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
 
@@ -72,30 +72,14 @@ If you find the extension useful and would like to support its development, cons
 
 This extension is created and maintained by the following person.
 
-<img src="https://i.imgur.com/jjJfnFs.png" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
+<img src="https://i.imgur.com/HepOoVX.jpeg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
 
 Ayushmaan Singh
 
 ## Connect With Me
 
-- [Twitter](https://twitter.com/AyushmaansinghX)
-- [GitHub](https://github.com/Ayushmaan0101)
-
-## Contribute
-
-If you would like to add any website, fix bugs, or address any issues, feel free to contribute.
-
-## Instructions
-
-1. Fork the repository.
-2. Clone the forked repository to your local machine.
-3. Open the `extension.ts` file.
-4. Add the new website to the appropriate category or make a new category.
-5. If you made any changes, please update the README accordingly.
-6. Commit your changes and push to your forked repository.
-7. Create a pull request from your forked repository to the main repository's `main` branch.
-
-Please note that only static websites can be added due to Content Security Policy (CSP) restrictions.
+- [Twitter](https://twitter.com/ayushmxxn)
+- [GitHub](https://github.com/ayushmxxn)
 
 ## License
 

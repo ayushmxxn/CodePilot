@@ -2,12 +2,12 @@
   "name": "codepilot",
   "displayName": "CodePilot",
   "description": "Instant access to documentations, frameworks and libraries right within VS Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "AyushmaanSingh",
   "icon": "icon.jpeg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ayushmaan0101/CodePilot"
+    "url": "https://github.com/ayushmxxn/CodePilot"
   },
   "engines": {
     "vscode": "^1.88.0"
