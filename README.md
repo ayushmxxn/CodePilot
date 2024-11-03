@@ -30,14 +30,29 @@
 
 ### Component Libraries
 
-- [Aceternity UI](https://ui.aceternity.com/)
+- [Serenity UI](https://serenity-ui.com/)
 - [Shadcn UI](https://ui.shadcn.com/)
+- [Aceternity UI](https://ui.aceternity.com/)
 - [Dev UI](https://www.devui.io/)
 - [Material UI](https://mui.com/material-ui/)
 - [Chakra UI](https://v2.chakra-ui.com/)
 - [Daisy UI](https://daisyui.com/)
 - [Ant Design](https://ant.design/)
 - [Next UI](https://nextui.org/)
+- [Hover](https://www.hover.dev/)
+- [Mantine](https://ui.mantine.dev/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Headless UI](https://headlessui.com/)
+- [Konsta UI](https://konstaui.com/)
+- [Park UI](https://park-ui.com/)
+- [Magic UI](https://magicui.design/)
+- [Flyon UI](https://flyonui.com/)
+- [Hyper UI](https://www.hyperui.dev/)
+- [Sailboat UI](https://sailboatui.com/)
+- [Tailgrids](https://tailgrids.com/)
+- [Tailblocks](https://tailblocks.cc/)
+- [Mamba UI](https://mambaui.com/)
+- [Origin UI](https://originui.com/)
 
 ### Animation Libraries
 
@@ -62,17 +77,17 @@
 
 ## Support
 
-If you find the extension useful and would like to support its development, consider buying me a coffee! ☕️
+If you found this extension useful, you can buy me a coffee ☕️
 
-<a href="https://www.buymeacoffee.com/ayushmxxn" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
+<a href="https://ko-fi.com/ayushmxxn" target="_blank">
+    <a href='https://ko-fi.com/H2H6WCASE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </a>
 
 ## Creator
 
 This extension is created and maintained by the following person.
 
-<img src="https://i.imgur.com/HepOoVX.jpeg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
+<img src="https://i.ibb.co/SBH4G8V/Avatar.jpg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
 
 Ayushmaan Singh
 
