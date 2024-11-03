@@ -56,10 +56,11 @@
     "test": "npm run compile && node ./node_modules/vscode/bin/test"
   },
   "devDependencies": {
+    "@types/node": "^22.8.7",
     "@types/vscode": "^1.62.0",
+    "@types/web": "^0.0.176",
     "typescript": "^4.5.5",
     "vscode": "^1.1.37"
   },
-  "dependencies": {},
   "private": true
 }
