@@ -52,6 +52,7 @@
 - [Tailgrids](https://tailgrids.com/)
 - [Tailblocks](https://tailblocks.cc/)
 - [Mamba UI](https://mambaui.com/)
+- [Ruru UI](https://ruru-ui.vercel.app/)
 - [Origin UI](https://originui.com/)
 
 ### Animation Libraries
