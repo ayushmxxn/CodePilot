@@ -33,6 +33,7 @@ const websiteCategories: WebsiteCategory[] = [
     {
         category: 'Component Libraries',
         websites: [
+            { name: "Serenity UI", url: "https://serenity-ui.com/" },
             { name: 'Aceternity UI', url: 'https://ui.aceternity.com/' },
             { name: 'Shadcn UI', url: 'https://ui.shadcn.com/' },
             { name: 'Dev UI', url: 'https://www.devui.io/' },
@@ -40,7 +41,22 @@ const websiteCategories: WebsiteCategory[] = [
             { name: 'Chakra UI', url: 'https://v2.chakra-ui.com/' },
             { name: 'Daisy UI', url: 'https://daisyui.com/' },
             { name: 'Ant Design', url: 'https://ant.design/' },
-            { name: 'Next UI', url: 'https://nextui.org/' }
+            { name: 'Next UI', url: 'https://nextui.org/' },
+            { name: "Hover", url: "https://www.hover.dev/" },
+            { name: "Mantine", url: "https://ui.mantine.dev/" },
+            { name: "Radix UI", url: "https://www.radix-ui.com/" },
+            { name: "Headless UI", url: "https://headlessui.com/" },
+            { name: "Konsta UI", url: "https://konstaui.com/" },
+            { name: "Park UI", url: "https://park-ui.com/" },
+            { name: "Magic UI", url: "https://magicui.design/" },
+            { name: "Flyon UI", url: "https://flyonui.com/" },
+            { name: "Hyper UI", url: "https://www.hyperui.dev/" },
+            { name: "Sailboat UI", url: "https://sailboatui.com/" },
+            { name: "Tailgrids", url: "https://tailgrids.com/" },
+            { name: "Tailblocks", url: "https://tailblocks.cc/" },
+            { name: "Mamba UI", url: "https://mambaui.com/" },
+            { name: "Ruru UI", url: "https://ruru-ui.vercel.app/" },
+            { name: "Origin UI", url: "https://originui.com/" }
         ]
     },
     {
