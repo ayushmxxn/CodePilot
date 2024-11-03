@@ -2,6 +2,12 @@
 
 All notable changes to the CodePilot extension will be documented in this file.
 
+## [1.1.0] - 2024-3-11
+
+### Add
+
+- Added new libraries
+
 ## [1.1.0] - 2024-6-05
 
 ### Updated
