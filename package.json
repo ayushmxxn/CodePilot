@@ -7,7 +7,7 @@
   "icon": "icon.jpeg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayushmxxn/CodePilot"
+    "url": "https://github.com/ayushmxxn/codepilot"
   },
   "engines": {
     "vscode": "^1.88.0"
